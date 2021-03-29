@@ -11,7 +11,10 @@ h1{
  }
  body{
  	background-color: #A9A9A9; 
- 	
+ 	padding: 30px;
+ 	margin: 0px;
+ 	width: 1860px;
+
  }
  .jj{
  	background-color: blue;
@@ -22,19 +25,18 @@ h1{
  }
  a:link, a:visited{
  	text-decoration: none;
- 	border: 10px solid black;
  	color: yellow;
  	background-color: black;
  	display: block;
- 	width: 1400px;
  	text-align: center;
+ 	height: 50px;
+ 	line-height: 50px;
  }
  a:hover, a:active{
  	color: black;
  	background-color: white;
- 	width: 250px
- 	color: red;
- 	border: 10px solid white;
+	height: 50px;
+ 	line-height: 50px;
  }
  h2:hover{
  	color: white;
