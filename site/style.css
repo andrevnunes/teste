@@ -18,8 +18,43 @@ h1{
  }
  .jj{
  	font-size: 50px;
- 	background: url(pic.jfif) no-repeat center;
+ 	/*background: url(pic.jfif) no-repeat center;*/
 
+
+ }
+ p{
+ position: relative;
+ }
+ #p1{
+
+float: bottom;
+background-color: black;
+width: 10px;
+height: 10px;
+border: 2px solid black;
+ }
+ #p4{
+ 
+ background-color: yellow;
+ width: 10px;
+ height: 10px;
+ border: 2px solid black;
+
+ }
+ #p2{ 
+ float: left;
+ background-color: orange;
+ width: 10px;
+ height: 10px;
+ border: 2px solid black;
+
+ }
+ #p3{
+ 
+ background-color: brown;
+ width: 10px;
+ height: 10px;
+ border: 2px solid black;
 
  }
  header li{
